@@ -43,7 +43,6 @@ src/
 ## Images
 
 See [ASSETS.md](./ASSETS.md) for the complete image replacement guide.
-On first launch, a developer note appears in the UI listing all placeholder paths.
 
 ## Pages
 

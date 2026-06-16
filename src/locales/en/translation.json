@@ -364,10 +364,5 @@
       "title": "Contact | Kajüt Vendéglő Debrecen",
       "description": "Address, hours, phone and email — visit us in Debrecen."
     }
-  },
-  "devNote": {
-    "title": "Developer note: Image replacement guide",
-    "description": "This site currently uses Unsplash placeholder images. Replace them with your own photos in these folders:",
-    "dismiss": "Got it"
   }
 }

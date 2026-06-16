@@ -362,10 +362,5 @@
       "title": "Kapcsolat | Kajüt Vendéglő Debrecen",
       "description": "Cím, nyitvatartás, telefon és email — látogass el hozzánk."
     }
-  },
-  "devNote": {
-    "title": "Fejlesztői megjegyzés: Képcsere útmutató",
-    "description": "A weboldal jelenleg Unsplash helyettesítő képeket használ. Cseréld ki a saját fotóidra az alábbi mappákban:",
-    "dismiss": "Értem"
   }
 }

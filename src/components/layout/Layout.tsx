@@ -3,7 +3,6 @@ import { SkipLink } from '@/components/layout/SkipLink'
 import { UtilityBar } from '@/components/layout/UtilityBar'
 import { Header } from '@/components/layout/Header'
 import { Footer } from '@/components/layout/Footer'
-import { DevImageNote } from '@/components/DevImageNote'
 
 export function Layout() {
   return (
@@ -15,7 +14,6 @@ export function Layout() {
         <Outlet />
       </main>
       <Footer />
-      <DevImageNote />
     </>
   )
 }
