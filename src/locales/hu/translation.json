@@ -1,0 +1,371 @@
+{
+  "nav": {
+    "home": "Kezdőlap",
+    "menu": "Étlap",
+    "order": "Rendelés",
+    "catering": "Rendezvény",
+    "about": "Rólunk",
+    "contact": "Kapcsolat"
+  },
+  "utility": {
+    "open": "Nyitva",
+    "closed": "Zárva",
+    "preLunch": "Hamarosan nyitunk",
+    "closingSoon": "Hamarosan zárunk",
+    "hours": "K–P {{hours}}",
+    "hoursClosed": "Hétfő, vasárnap: zárva",
+    "saturdayPreorder": "Szombat: előrendelésre",
+    "call": "Hívás",
+    "szep": "SZÉP kártya"
+  },
+  "hero": {
+    "eyebrow": "Hagyományos magyar vendéglő · Debrecen",
+    "title": "Debrecen otthona a házias magyar ízeknek.",
+    "subtitle": "Napi menü hétköznapokon, bőséges családi tálak előrendelésre, rendezvényekre catering — háziasan, szívvel-lélekkel.",
+    "ctaPrimary": "Mai napi menü",
+    "ctaSecondary": "Rendelés",
+    "ctaTertiary": "Catering →"
+  },
+  "dailyCard": {
+    "title": "Mai napi menü",
+    "soup": "Leves",
+    "main": "Főétel",
+    "menu": "Menü (leves + főétel)",
+    "updated": "Frissítve: {{date}}",
+    "order": "Rendelés",
+    "fullMenu": "Teljes étlap",
+    "closedMessage": "Ma zárva — legközelebb hétköznap nyitva"
+  },
+  "stats": {
+    "years": "Év tapasztalat",
+    "platters": "Különleges tál",
+    "lunchDays": "Ebédnap hetente",
+    "rating": "Vendégértékelés"
+  },
+  "offerings": {
+    "eyebrow": "Mit kínálunk",
+    "title": "Minden alkalomra házias ízek",
+    "daily": {
+      "title": "Napi menü",
+      "description": "Friss leves és főétel keddi–pénteki ebédidőben. Ideális irodai ebédhez.",
+      "cta": "Étlap megtekintése"
+    },
+    "platters": {
+      "title": "Kajüt tálak",
+      "description": "Bőséges családi tálak előrendelésre — frissen készítjük neked.",
+      "cta": "Tálak böngészése"
+    },
+    "catering": {
+      "title": "Rendezvény & Catering",
+      "description": "Családi ünnepek, céges ebédek és alkalmi rendezvények gondoskodással.",
+      "cta": "Ajánlatkérés"
+    }
+  },
+  "gallery": {
+    "eyebrow": "Galéria",
+    "title": "Ízek és pillanatok",
+    "cta": "Teljes galéria"
+  },
+  "story": {
+    "eyebrow": "A Kajüt története",
+    "title": "Egy asztal, amelyre mindenkit szívesen várunk",
+    "p1": "A Kajüt Vendéglőben hiszünk abban, hogy a magyar konyha igazi értéke a házias ízekben és a bőséges adagokban rejlik. Debrecen szívében, a Kishegyesi úton egy olyan helyet teremtettünk, ahol a családok, munkatársak és barátok együtt ülhetnek le egy igazi magyar ebédhez.",
+    "p2": "Napi menünk minden hétköznap friss alapanyagokból készül. Tálainkat előrendelésre készítjük — mert tudjuk, hogy a legjobb étel nem vár, hanem frissen készül.",
+    "cta": "Ismerj meg minket"
+  },
+  "platters": {
+    "eyebrow": "Előrendelésre",
+    "title": "Sültes tálaink",
+    "note": "Köret külön választható",
+    "preorder": "Előrendelés telefonon",
+    "viewAll": "Összes tál"
+  },
+  "reviews": {
+    "eyebrow": "Vendégeink mondták",
+    "title": "Megbízható ízek, elégedett vendégek",
+    "items": [
+      {
+        "quote": "10/10-es finomságok. Minden alkalommal friss és bőséges.",
+        "author": "Regina",
+        "source": "Foodora"
+      },
+      {
+        "quote": "A legjobb napi menü a környéken. Gyors, barátságos, házias.",
+        "author": "Tamás",
+        "source": "Wolt"
+      },
+      {
+        "quote": "A Kajüt tál a családi összejövetelek kedvence lett nálunk.",
+        "author": "Ildikó",
+        "source": "Facebook"
+      }
+    ]
+  },
+  "visit": {
+    "eyebrow": "Látogass el",
+    "title": "Találj meg minket Debrecenben",
+    "address": "Cím",
+    "hours": "Nyitvatartás",
+    "hoursDetail": "Kedd–péntek: 11:30–15:00\nSzombat: Előrendelésre\nHétfő, vasárnap: Zárva",
+    "parking": "Ingyenes parkolás a vendéglő előtt (3–4 autó)",
+    "directions": "Útvonaltervezés"
+  },
+  "ctaBand": {
+    "title": "Rendeld a mai ebéded",
+    "subtitle": "Kiszállítás Wolt-on és Foodora-n, vagy látogass el személyesen.",
+    "wolt": "Wolt",
+    "foodora": "Foodora",
+    "call": "Hívás"
+  },
+  "footer": {
+    "visit": "Látogatás",
+    "order": "Rendelés",
+    "catering": "Rendezvény",
+    "connect": "Kapcsolat",
+    "dineIn": "Személyes látogatás",
+    "delivery": "Kiszállítás",
+    "platters": "Tál előrendelés",
+    "platterPhone": "Tálak: előrendelés telefonon",
+    "quote": "Ajánlatkérés",
+    "rights": "© {{year}} Kajüt Vendéglő. Minden jog fenntartva.",
+    "privacy": "Adatvédelem"
+  },
+  "menuPage": {
+    "title": "Étlap",
+    "subtitle": "Napi menü, állandó ételek és előrendelhető tálak",
+    "tabs": {
+      "daily": "Napi menü",
+      "soups": "Levesek",
+      "mains": "Főételek",
+      "desserts": "Desszertek",
+      "platters": "Tálak",
+      "sides": "Köretek"
+    },
+    "preorderBanner": "ELŐRENDELÉSRE · Telefonos rendelés kötelező",
+    "pdf": "Étlap letöltése (PDF)",
+    "allergen": "Allergén tájékoztató kérésre elérhető.",
+    "sidebarTitle": "Gyors rendelés",
+    "sidesNote": "Tálaink a köretet nem tartalmazzák!"
+  },
+  "orderPage": {
+    "title": "Rendelés",
+    "subtitle": "Válaszd ki a számodra legkényelmesebb módot",
+    "channels": {
+      "dineIn": {
+        "title": "Személyesen",
+        "description": "Látogass el hozzánk ebédidőben. SZÉP kártya elfogadva.",
+        "cta": "Útvonaltervezés"
+      },
+      "wolt": {
+        "title": "Wolt",
+        "description": "Napi menü, egytál ételek és több — házhozszállítás.",
+        "cta": "Wolt megnyitása"
+      },
+      "foodora": {
+        "title": "Foodora",
+        "description": "Rendelj kedvenc ételeidet házhoz vagy irodába.",
+        "cta": "Foodora megnyitása"
+      },
+      "phone": {
+        "title": "Tál előrendelés",
+        "description": "Tálaink frissen, előrendelés alapján készülnek. Telefon kötelező.",
+        "cta": "Hívás most"
+      }
+    },
+    "steps": {
+      "eyebrow": "Hogyan rendelj?",
+      "title": "Három egyszerű lépés",
+      "step1": "Nézd meg a mai menüt vagy válassz tálat",
+      "step2": "Válaszd a rendelési csatornát",
+      "step3": "Élvezd a házias ízeket"
+    },
+    "payment": {
+      "title": "Fizetési lehetőségek",
+      "description": "SZÉP kártya elfogadva · Készpénz · Bankkártya. Nagyobb rendelésnél kiszállítás Debrecen területén — hívj minket!"
+    },
+    "rules": {
+      "title": "Előrendelési szabályok (tálak)",
+      "rule1": "Minden tál frissen készül — előrendelés kötelező",
+      "rule2": "Személyes átvétel az alapértelmezett",
+      "rule3": "Nincs minimum rendelési érték",
+      "rule4": "Nagyobb céges/rendezvény rendeléseknél megoldjuk a kiszállítást"
+    }
+  },
+  "cateringPage": {
+    "title": "Rendezvények & Catering",
+    "subtitle": "Családi ünnepek, céges ebédek és alkalmi rendezvények",
+    "ctaPrimary": "Ajánlatkérés",
+    "ctaSecondary": "Hívás",
+    "categories": {
+      "family": {
+        "title": "Családi ünnepek",
+        "description": "Születésnapok, családi összejövetelek — bőséges tálakkal."
+      },
+      "corporate": {
+        "title": "Céges ebédek",
+        "description": "Irodai rendezvények, SZÉP kártyás fizetés, számlázás."
+      },
+      "events": {
+        "title": "Alkalmi rendezvények",
+        "description": "Esküvői brunch, keresztelő, céges piknik."
+      }
+    },
+    "packages": {
+      "eyebrow": "Csomagajánlatok",
+      "title": "Rugalmas megoldások minden létszámra",
+      "platters": {
+        "title": "Tálak rendezvényre",
+        "price": "16.900 Ft / tál",
+        "features": ["6 különböző tál választható", "Köret külön rendelhető", "Előrendelés 48 órával előtte"]
+      },
+      "daily": {
+        "title": "Napi menü skálázva",
+        "price": "Egyedi ajánlat",
+        "features": ["Leves + főétel kombináció", "20 főtől", "Kiszállítás Debrecen területén"]
+      }
+    },
+    "process": {
+      "eyebrow": "Folyamat",
+      "title": "Így működik",
+      "step1": "Ajánlatkérés",
+      "step2": "Egyeztetés",
+      "step3": "Előkészítés",
+      "step4": "Kiszállítás / átadás"
+    },
+    "form": {
+      "title": "Ajánlatkérés",
+      "subtitle": "24 órán belül visszahívunk.",
+      "name": "Név",
+      "phone": "Telefon",
+      "date": "Rendezvény dátuma",
+      "guests": "Vendégszám",
+      "guestOptions": {
+        "10-20": "10–20 fő",
+        "20-50": "20–50 fő",
+        "50+": "50+ fő"
+      },
+      "message": "Üzenet (opcionális)",
+      "submit": "Ajánlatkérés küldése",
+      "success": "Köszönjük! Hamarosan felvesszük Önnel a kapcsolatot.",
+      "errors": {
+        "name": "Add meg a neved",
+        "phone": "Add meg a telefonszámod",
+        "date": "Válassz dátumot",
+        "guests": "Válassz vendégszámot"
+      }
+    },
+    "trust": "SZÉP kártya · Számla · Debrecen kiszállítás"
+  },
+  "aboutPage": {
+    "title": "Rólunk",
+    "heroSubtitle": "Egy vendéglő, ahol mindenki otthon érezheti magát",
+    "intro": "A Kajüt Vendéglőben hiszünk abban, hogy a legjobb magyar konyha nem a divatot követi, hanem a hagyományt őrzi — frissen, bőségesen, szívvel-lélekkel.",
+    "values": {
+      "eyebrow": "Értékeink",
+      "title": "Amiben hiszünk",
+      "homestyle": {
+        "title": "Házias ízek",
+        "description": "Otthon főzött érzés, minden tányéron."
+      },
+      "generosity": {
+        "title": "Bőség",
+        "description": "Generous adagok — különösen tálainkban."
+      },
+      "reliability": {
+        "title": "Kiszámíthatóság",
+        "description": "Tiszta nyitvatartás, friss napi menü."
+      },
+      "community": {
+        "title": "Közösség",
+        "description": "Debrecen helyi vendéglője — családoknak és irodáknak."
+      }
+    },
+    "kitchen": {
+      "title": "A konyhánkról",
+      "description": "Minden nap friss alapanyagokból dolgozunk. Napi menünk a heti szezonális kínálatra épül, tálainkat pedig egyenként, előrendelésre készítjük — mert a frissesség nem kompromisszum kérdése."
+    },
+    "ctaMenu": "Fedezd fel étlapunkat",
+    "ctaCatering": "Catering ajánlatkérés"
+  },
+  "contactPage": {
+    "title": "Kapcsolat & Látogass el",
+    "subtitle": "Keress minket bátran telefonon, emailben vagy személyesen.",
+    "address": "Cím",
+    "hours": "Nyitvatartás",
+    "phone": "Telefon",
+    "phoneGeneral": "Általános",
+    "phonePlatters": "Tálak / előrendelés",
+    "email": "Email",
+    "parking": "Parkolás",
+    "mapTitle": "Térkép",
+    "openMaps": "Megnyitás Google Térképen",
+    "form": {
+      "title": "Általános megkeresés",
+      "name": "Név",
+      "email": "Email",
+      "phone": "Telefon",
+      "message": "Üzenet",
+      "submit": "Üzenet küldése",
+      "success": "Üzeneted elküldtük. Hamarosan válaszolunk.",
+      "errors": {
+        "name": "Add meg a neved",
+        "email": "Érvényes email címet adj meg",
+        "message": "Írd meg üzeneted"
+      }
+    },
+    "social": "Kövess minket Facebookon — heti menü és hírek"
+  },
+  "common": {
+    "skipToContent": "Ugrás a tartalomra",
+    "loading": "Betöltés…",
+    "externalLink": "új ablakban nyílik",
+    "callLabel": "Hívás: {{phone}}",
+    "featured": "Kiemelt",
+    "from": "{{price}}-tól",
+    "close": "Bezárás",
+    "menu": "Menü",
+    "brandName": "Kajüt Vendéglő",
+    "brandKajut": "Kajüt",
+    "brandWordmark": "Vendéglő",
+    "tagline": "Debrecen otthona a házias magyar ízeknek.",
+    "addressFull": "4030 Debrecen, Kishegyesi út 29",
+    "addressStreet": "Kishegyesi út 29",
+    "addressCity": "Debrecen",
+    "facebook": "Facebook",
+    "switchToEn": "Váltás angolra",
+    "switchToHu": "Váltás magyarra",
+    "heroImageAlt": "Kajüt Vendéglő — bőséges családi tál",
+    "galleryImageAlt": "Kajüt Vendéglő galéria kép {{n}}"
+  },
+  "seo": {
+    "home": {
+      "title": "Kajüt Vendéglő | Debrecen otthona a házias magyar ízeknek",
+      "description": "Hagyományos magyar vendéglő Debrecenben. Napi menü, családi tálak, rendezvény catering. SZÉP kártya elfogadva."
+    },
+    "menu": {
+      "title": "Étlap | Kajüt Vendéglő Debrecen",
+      "description": "Napi menü, levesek, főételek, desszertek és előrendelhető sültes tálak."
+    },
+    "order": {
+      "title": "Rendelés | Kajüt Vendéglő",
+      "description": "Rendelj Wolt-on, Foodora-n, személyesen vagy telefonon előrendelésre."
+    },
+    "catering": {
+      "title": "Rendezvény & Catering | Kajüt Vendéglő",
+      "description": "Catering és rendezvények Debrecenben. Családi és céges események."
+    },
+    "about": {
+      "title": "Rólunk | Kajüt Vendéglő Debrecen",
+      "description": "Ismerd meg a Kajüt Vendéglő történetét és értékeit."
+    },
+    "contact": {
+      "title": "Kapcsolat | Kajüt Vendéglő Debrecen",
+      "description": "Cím, nyitvatartás, telefon és email — látogass el hozzánk."
+    }
+  },
+  "devNote": {
+    "title": "Fejlesztői megjegyzés: Képcsere útmutató",
+    "description": "A weboldal jelenleg Unsplash helyettesítő képeket használ. Cseréld ki a saját fotóidra az alábbi mappákban:",
+    "dismiss": "Értem"
+  }
+}

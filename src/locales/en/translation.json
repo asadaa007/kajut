@@ -1,0 +1,373 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "order": "Order",
+    "catering": "Events",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "utility": {
+    "open": "Open",
+    "closed": "Closed",
+    "preLunch": "Opening soon",
+    "closingSoon": "Closing soon",
+    "hours": "Tue–Fri {{hours}}",
+    "hoursClosed": "Mon & Sun: closed",
+    "saturdayPreorder": "Sat: pre-order only",
+    "closedHours": "Mon & Sun: closed",
+    "saturdayPreorder": "Sat: pre-order only",
+    "call": "Call",
+    "szep": "SZÉP card"
+  },
+  "hero": {
+    "eyebrow": "Traditional Hungarian restaurant · Debrecen",
+    "title": "Debrecen's home of authentic Hungarian comfort food.",
+    "subtitle": "Daily lunch menus on weekdays, generous family platters by pre-order, and event catering — served with heart and tradition.",
+    "ctaPrimary": "Today's lunch menu",
+    "ctaSecondary": "Order now",
+    "ctaTertiary": "Catering →"
+  },
+  "dailyCard": {
+    "title": "Today's lunch menu",
+    "soup": "Soup",
+    "main": "Main course",
+    "menu": "Menu (soup + main)",
+    "updated": "Updated: {{date}}",
+    "order": "Order",
+    "fullMenu": "Full menu",
+    "closedMessage": "Closed today — open again on weekdays"
+  },
+  "stats": {
+    "years": "Years of experience",
+    "platters": "Signature platters",
+    "lunchDays": "Lunch days per week",
+    "rating": "Guest rating"
+  },
+  "offerings": {
+    "eyebrow": "What we offer",
+    "title": "Homestyle flavours for every occasion",
+    "daily": {
+      "title": "Daily menu",
+      "description": "Fresh soup and main course Tue–Fri at lunch. Perfect for office lunches.",
+      "cta": "View menu"
+    },
+    "platters": {
+      "title": "Kajüt platters",
+      "description": "Generous family platters made fresh to order — pre-order by phone.",
+      "cta": "Browse platters"
+    },
+    "catering": {
+      "title": "Events & Catering",
+      "description": "Family celebrations, corporate lunches, and special occasions.",
+      "cta": "Request a quote"
+    }
+  },
+  "gallery": {
+    "eyebrow": "Gallery",
+    "title": "Flavours and moments",
+    "cta": "Full gallery"
+  },
+  "story": {
+    "eyebrow": "The Kajüt story",
+    "title": "A table where everyone is welcome",
+    "p1": "At Kajüt Vendéglő we believe the true value of Hungarian cuisine lies in homestyle flavours and generous portions. In the heart of Debrecen on Kishegyesi út, we created a place where families, colleagues, and friends can sit down together for a real Hungarian lunch.",
+    "p2": "Our daily menu is prepared from fresh ingredients every weekday. Our platters are made to order — because the best food doesn't wait, it's made fresh for you.",
+    "cta": "Get to know us"
+  },
+  "platters": {
+    "eyebrow": "Pre-order",
+    "title": "Our meat platters",
+    "note": "Side dishes sold separately",
+    "preorder": "Pre-order by phone",
+    "viewAll": "All platters"
+  },
+  "reviews": {
+    "eyebrow": "Guest reviews",
+    "title": "Trusted flavours, happy guests",
+    "items": [
+      {
+        "quote": "10/10 delicious. Fresh and generous every time.",
+        "author": "Regina",
+        "source": "Foodora"
+      },
+      {
+        "quote": "The best daily menu in the area. Quick, friendly, homestyle.",
+        "author": "Tamás",
+        "source": "Wolt"
+      },
+      {
+        "quote": "The Kajüt platter has become our family gathering favourite.",
+        "author": "Ildikó",
+        "source": "Facebook"
+      }
+    ]
+  },
+  "visit": {
+    "eyebrow": "Visit us",
+    "title": "Find us in Debrecen",
+    "address": "Address",
+    "hours": "Opening hours",
+    "hoursDetail": "Tue–Fri: 11:30–15:00\nSaturday: Pre-order only\nMonday & Sunday: Closed",
+    "parking": "Free parking in front (3–4 cars)",
+    "directions": "Get directions"
+  },
+  "ctaBand": {
+    "title": "Order today's lunch",
+    "subtitle": "Delivery via Wolt and Foodora, or visit us in person.",
+    "wolt": "Wolt",
+    "foodora": "Foodora",
+    "call": "Call us"
+  },
+  "footer": {
+    "visit": "Visit",
+    "order": "Order",
+    "catering": "Events",
+    "connect": "Connect",
+    "dineIn": "Dine in",
+    "delivery": "Delivery",
+    "platters": "Platter pre-order",
+    "platterPhone": "Platters: pre-order by phone",
+    "quote": "Request quote",
+    "rights": "© {{year}} Kajüt Vendéglő. All rights reserved.",
+    "privacy": "Privacy"
+  },
+  "menuPage": {
+    "title": "Menu",
+    "subtitle": "Daily menu, à la carte dishes, and pre-order platters",
+    "tabs": {
+      "daily": "Daily menu",
+      "soups": "Soups",
+      "mains": "Main courses",
+      "desserts": "Desserts",
+      "platters": "Platters",
+      "sides": "Side dishes"
+    },
+    "preorderBanner": "PRE-ORDER ONLY · Phone order required",
+    "pdf": "Download menu (PDF)",
+    "allergen": "Allergen information available on request.",
+    "sidebarTitle": "Quick order",
+    "sidesNote": "Our platters do not include side dishes!"
+  },
+  "orderPage": {
+    "title": "Order",
+    "subtitle": "Choose the most convenient option for you",
+    "channels": {
+      "dineIn": {
+        "title": "Dine in",
+        "description": "Visit us during lunch hours. SZÉP card accepted.",
+        "cta": "Get directions"
+      },
+      "wolt": {
+        "title": "Wolt",
+        "description": "Daily menu, one-dish meals and more — home delivery.",
+        "cta": "Open Wolt"
+      },
+      "foodora": {
+        "title": "Foodora",
+        "description": "Order your favourites to your home or office.",
+        "cta": "Open Foodora"
+      },
+      "phone": {
+        "title": "Platter pre-order",
+        "description": "Platters are made fresh to order. Phone required.",
+        "cta": "Call now"
+      }
+    },
+    "steps": {
+      "eyebrow": "How to order",
+      "title": "Three simple steps",
+      "step1": "Check today's menu or choose a platter",
+      "step2": "Pick your ordering channel",
+      "step3": "Enjoy homestyle Hungarian flavours"
+    },
+    "payment": {
+      "title": "Payment options",
+      "description": "SZÉP card accepted · Cash · Bank card. Delivery in Debrecen for larger orders — call us!"
+    },
+    "rules": {
+      "title": "Pre-order rules (platters)",
+      "rule1": "Every platter is made fresh — pre-order required",
+      "rule2": "Personal pickup is the default",
+      "rule3": "No minimum order value",
+      "rule4": "Delivery available for larger corporate/event orders"
+    }
+  },
+  "cateringPage": {
+    "title": "Events & Catering",
+    "subtitle": "Family celebrations, corporate lunches, and special occasions",
+    "ctaPrimary": "Request a quote",
+    "ctaSecondary": "Call us",
+    "categories": {
+      "family": {
+        "title": "Family celebrations",
+        "description": "Birthdays and family gatherings — with generous platters."
+      },
+      "corporate": {
+        "title": "Corporate lunches",
+        "description": "Office events, SZÉP card payment, invoicing."
+      },
+      "events": {
+        "title": "Special occasions",
+        "description": "Wedding brunch, christenings, company picnics."
+      }
+    },
+    "packages": {
+      "eyebrow": "Packages",
+      "title": "Flexible solutions for any group size",
+      "platters": {
+        "title": "Event platters",
+        "price": "HUF 16,900 / platter",
+        "features": ["6 platter varieties available", "Sides ordered separately", "Pre-order 48 hours ahead"]
+      },
+      "daily": {
+        "title": "Scaled daily menu",
+        "price": "Custom quote",
+        "features": ["Soup + main combination", "From 20 guests", "Delivery in Debrecen"]
+      }
+    },
+    "process": {
+      "eyebrow": "Process",
+      "title": "How it works",
+      "step1": "Request a quote",
+      "step2": "Consultation",
+      "step3": "Preparation",
+      "step4": "Delivery / handover"
+    },
+    "form": {
+      "title": "Request a quote",
+      "subtitle": "We'll call you back within 24 hours.",
+      "name": "Name",
+      "phone": "Phone",
+      "date": "Event date",
+      "guests": "Number of guests",
+      "guestOptions": {
+        "10-20": "10–20 guests",
+        "20-50": "20–50 guests",
+        "50+": "50+ guests"
+      },
+      "message": "Message (optional)",
+      "submit": "Send request",
+      "success": "Thank you! We'll contact you shortly.",
+      "errors": {
+        "name": "Please enter your name",
+        "phone": "Please enter your phone number",
+        "date": "Please select a date",
+        "guests": "Please select guest count"
+      }
+    },
+    "trust": "SZÉP card · Invoicing · Debrecen delivery"
+  },
+  "aboutPage": {
+    "title": "About us",
+    "heroSubtitle": "A restaurant where everyone feels at home",
+    "intro": "At Kajüt Vendéglő we believe the best Hungarian cuisine doesn't follow trends — it preserves tradition, served fresh, generously, and with heart.",
+    "values": {
+      "eyebrow": "Our values",
+      "title": "What we stand for",
+      "homestyle": {
+        "title": "Homestyle flavours",
+        "description": "The feeling of home cooking on every plate."
+      },
+      "generosity": {
+        "title": "Generosity",
+        "description": "Generous portions — especially our platters."
+      },
+      "reliability": {
+        "title": "Reliability",
+        "description": "Clear hours, fresh daily menu."
+      },
+      "community": {
+        "title": "Community",
+        "description": "Debrecen's local restaurant — for families and offices."
+      }
+    },
+    "kitchen": {
+      "title": "Our kitchen",
+      "description": "We work with fresh ingredients every day. Our daily menu follows the seasonal weekly offering, and platters are prepared individually to order — because freshness is non-negotiable."
+    },
+    "ctaMenu": "Explore our menu",
+    "ctaCatering": "Catering inquiry"
+  },
+  "contactPage": {
+    "title": "Contact & Visit",
+    "subtitle": "Reach us by phone, email, or visit us in person.",
+    "address": "Address",
+    "hours": "Opening hours",
+    "phone": "Phone",
+    "phoneGeneral": "General",
+    "phonePlatters": "Platters / pre-order",
+    "email": "Email",
+    "parking": "Parking",
+    "mapTitle": "Map",
+    "openMaps": "Open in Google Maps",
+    "form": {
+      "title": "General inquiry",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "submit": "Send message",
+      "success": "Your message has been sent. We'll reply soon.",
+      "errors": {
+        "name": "Please enter your name",
+        "email": "Please enter a valid email",
+        "message": "Please enter your message"
+      }
+    },
+    "social": "Follow us on Facebook — weekly menu and news"
+  },
+  "common": {
+    "skipToContent": "Skip to content",
+    "loading": "Loading…",
+    "externalLink": "opens in new tab",
+    "callLabel": "Call: {{phone}}",
+    "featured": "Featured",
+    "from": "from {{price}}",
+    "close": "Close",
+    "menu": "Menu",
+    "brandName": "Kajüt Vendéglő",
+    "brandKajut": "Kajüt",
+    "brandWordmark": "Restaurant",
+    "tagline": "Debrecen's home of authentic Hungarian comfort food.",
+    "addressFull": "4030 Debrecen, Kishegyesi út 29",
+    "addressStreet": "Kishegyesi út 29",
+    "addressCity": "Debrecen",
+    "facebook": "Facebook",
+    "switchToEn": "Switch to English",
+    "switchToHu": "Switch to Hungarian",
+    "heroImageAlt": "Kajüt Vendéglő — generous family platter",
+    "galleryImageAlt": "Kajüt Vendéglő gallery image {{n}}"
+  },
+  "seo": {
+    "home": {
+      "title": "Kajüt Vendéglő | Debrecen's Home of Hungarian Comfort Food",
+      "description": "Traditional Hungarian restaurant in Debrecen. Daily lunch menu, family platters, event catering. SZÉP card accepted."
+    },
+    "menu": {
+      "title": "Menu | Kajüt Vendéglő Debrecen",
+      "description": "Daily menu, soups, mains, desserts, and pre-order meat platters."
+    },
+    "order": {
+      "title": "Order | Kajüt Vendéglő",
+      "description": "Order via Wolt, Foodora, dine in, or phone pre-order."
+    },
+    "catering": {
+      "title": "Events & Catering | Kajüt Vendéglő",
+      "description": "Catering and events in Debrecen. Family and corporate occasions."
+    },
+    "about": {
+      "title": "About | Kajüt Vendéglő Debrecen",
+      "description": "Discover the story and values of Kajüt Vendéglő."
+    },
+    "contact": {
+      "title": "Contact | Kajüt Vendéglő Debrecen",
+      "description": "Address, hours, phone and email — visit us in Debrecen."
+    }
+  },
+  "devNote": {
+    "title": "Developer note: Image replacement guide",
+    "description": "This site currently uses Unsplash placeholder images. Replace them with your own photos in these folders:",
+    "dismiss": "Got it"
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "dailyMenu": {
+    "soup": {
+      "id": "daily-soup",
+      "nameHu": "Házias zöldbableves",
+      "nameEn": "Homestyle green bean soup",
+      "price": 890
+    },
+    "main": {
+      "id": "daily-main",
+      "nameHu": "Rántott csirkemell párolt rizzsel",
+      "nameEn": "Breaded chicken breast with steamed rice",
+      "price": 1890
+    },
+    "menuPrice": 2490,
+    "updatedAt": "2026-06-16"
+  },
+  "categories": [
+    {
+      "id": "soups",
+      "nameHu": "Levesek",
+      "nameEn": "Soups",
+      "items": [
+        {
+          "id": "soup-1",
+          "nameHu": "Házias zöldbableves",
+          "nameEn": "Homestyle green bean soup",
+          "descriptionHu": "Friss zöldbabb, füstölt tarja",
+          "descriptionEn": "Fresh green beans, smoked pork",
+          "price": 890
+        },
+        {
+          "id": "soup-2",
+          "nameHu": "Gulyásleves",
+          "nameEn": "Goulash soup",
+          "descriptionHu": "Hagyományos magyar gulyásleves",
+          "descriptionEn": "Traditional Hungarian goulash soup",
+          "price": 990
+        },
+        {
+          "id": "soup-3",
+          "nameHu": "Jókai bableves",
+          "nameEn": "Jókai bean soup",
+          "descriptionHu": "Tejföllel, csipetkével",
+          "descriptionEn": "With sour cream and pasta pearls",
+          "price": 950
+        }
+      ]
+    },
+    {
+      "id": "mains",
+      "nameHu": "Főételek",
+      "nameEn": "Main courses",
+      "items": [
+        {
+          "id": "main-1",
+          "nameHu": "Rántott csirkemell",
+          "nameEn": "Breaded chicken breast",
+          "descriptionHu": "Választható körettel",
+          "descriptionEn": "Choice of side dish",
+          "price": 2490
+        },
+        {
+          "id": "main-2",
+          "nameHu": "Magyaros töltött karaj",
+          "nameEn": "Hungarian stuffed pork chop",
+          "descriptionHu": "Sajttal, sonkával töltve",
+          "descriptionEn": "Stuffed with cheese and ham",
+          "price": 2890
+        },
+        {
+          "id": "main-3",
+          "nameHu": "Cigánypecsenye",
+          "nameEn": "Gypsy roast pork",
+          "descriptionHu": "Tarja, hagymás körettel",
+          "descriptionEn": "Pork tarja with onion garnish",
+          "price": 2690
+        },
+        {
+          "id": "main-4",
+          "nameHu": "Rántott karaj",
+          "nameEn": "Breaded pork chop",
+          "descriptionHu": "Ropogós bundában",
+          "descriptionEn": "Crispy breaded coating",
+          "price": 2590
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "nameHu": "Desszertek",
+      "nameEn": "Desserts",
+      "items": [
+        {
+          "id": "dessert-1",
+          "nameHu": "Palacsinta lekvárral",
+          "nameEn": "Pancake with jam",
+          "descriptionHu": "Házi palacsinta",
+          "descriptionEn": "Homemade pancake",
+          "price": 690
+        },
+        {
+          "id": "dessert-2",
+          "nameHu": "Túrós pite",
+          "nameEn": "Cottage cheese pie",
+          "descriptionHu": "Hagyományos recept",
+          "descriptionEn": "Traditional recipe",
+          "price": 790
+        }
+      ]
+    }
+  ],
+  "sides": {
+    "nameHu": "Köretek",
+    "nameEn": "Side dishes",
+    "noteHu": "Tálaink a köretet nem tartalmazzák!",
+    "noteEn": "Our platters do not include side dishes!",
+    "items": [
+      { "id": "side-1", "nameHu": "Steak burgonya", "nameEn": "Steak fries", "price": 590 },
+      { "id": "side-2", "nameHu": "Hasáb burgonya", "nameEn": "French fries", "price": 490 },
+      { "id": "side-3", "nameHu": "Párolt rizs", "nameEn": "Steamed rice", "price": 390 },
+      { "id": "side-4", "nameHu": "Svéd gomba", "nameEn": "Swedish mushrooms", "price": 590 },
+      { "id": "side-5", "nameHu": "Francia burgonya", "nameEn": "French potatoes", "price": 490 },
+      { "id": "side-6", "nameHu": "Kukorica", "nameEn": "Corn", "price": 390 },
+      { "id": "side-7", "nameHu": "Friss kevert saláta", "nameEn": "Fresh mixed salad", "price": 490 }
+    ]
+  },
+  "platters": [
+    {
+      "id": "platter-inyenc",
+      "nameHu": "Ínyenc tál",
+      "nameEn": "Gourmet Platter",
+      "price": 17900,
+      "itemsHu": [
+        "Chedarral jalapenóval töltött jércemell 1 db",
+        "Sajttal-sonkával töltött jércemell 1 db",
+        "Magyaros töltött karaj 1 db",
+        "Rántott csirkemell 4 db",
+        "Rántott karaj 4 db",
+        "Cigánypecsenye (tarja) 2 db",
+        "Sült kacsacomb 2 db"
+      ],
+      "itemsEn": [
+        "Turkey breast stuffed with cheddar & jalapeño ×1",
+        "Turkey breast stuffed with cheese & ham ×1",
+        "Hungarian stuffed pork chop ×1",
+        "Breaded chicken breast ×4",
+        "Breaded pork chop ×4",
+        "Gypsy roast pork ×2",
+        "Roasted duck leg ×2"
+      ]
+    },
+    {
+      "id": "platter-chef",
+      "nameHu": "Konyhafőnök ajánlata",
+      "nameEn": "Chef's Recommendation",
+      "price": 16900,
+      "itemsHu": [
+        "Chedarral jalapenóval töltött jércemell 1 db",
+        "Sajttal-sonkával töltött jércemell 1 db",
+        "Magyaros töltött karaj 1 db",
+        "Rántott csirkemell 4 db",
+        "Rántott karaj 4 db",
+        "Cigánypecsenye (tarja) 2 db",
+        "Rántott gomba 4 db",
+        "Rántott karfiol 4 db"
+      ],
+      "itemsEn": [
+        "Turkey breast stuffed with cheddar & jalapeño ×1",
+        "Turkey breast stuffed with cheese & ham ×1",
+        "Hungarian stuffed pork chop ×1",
+        "Breaded chicken breast ×4",
+        "Breaded pork chop ×4",
+        "Gypsy roast pork ×2",
+        "Breaded mushrooms ×4",
+        "Breaded cauliflower ×4"
+      ]
+    },
+    {
+      "id": "platter-kedvenc",
+      "nameHu": "Kedvenc tál",
+      "nameEn": "Favourite Platter",
+      "price": 16900,
+      "itemsHu": [
+        "Sajttal sonkával töltött jércemell 1 db",
+        "Aszalt gyümölccsel töltött jércemell 1 db",
+        "Aszalt paradicsommal töltött jércemell 1 db",
+        "Rántott karaj 4 db",
+        "Rántott csirkemell 4 db",
+        "Rántott gomba 6 db",
+        "Rántott karfiol 6 db",
+        "Cigánypecsenye 2 db",
+        "Rántott sajt 2 db"
+      ],
+      "itemsEn": [
+        "Turkey breast stuffed with cheese & ham ×1",
+        "Turkey breast stuffed with dried fruit ×1",
+        "Turkey breast stuffed with sun-dried tomato ×1",
+        "Breaded pork chop ×4",
+        "Breaded chicken breast ×4",
+        "Breaded mushrooms ×6",
+        "Breaded cauliflower ×6",
+        "Gypsy roast pork ×2",
+        "Breaded cheese ×2"
+      ]
+    },
+    {
+      "id": "platter-boseg",
+      "nameHu": "Bőség tál",
+      "nameEn": "Abundance Platter",
+      "price": 16900,
+      "itemsHu": [
+        "Sajttal sonkával töltött jércemell 2 db",
+        "Rántott sajt 4 db",
+        "Rántott karaj 5 db",
+        "Rántott csirkemell 5 db",
+        "Rántott gomba 6 db",
+        "Rántott karfiol 6 db"
+      ],
+      "itemsEn": [
+        "Turkey breast stuffed with cheese & ham ×2",
+        "Breaded cheese ×4",
+        "Breaded pork chop ×5",
+        "Breaded chicken breast ×5",
+        "Breaded mushrooms ×6",
+        "Breaded cauliflower ×6"
+      ]
+    },
+    {
+      "id": "platter-kajut",
+      "nameHu": "Kajüt tál",
+      "nameEn": "Kajüt Platter",
+      "price": 16900,
+      "featured": true,
+      "itemsHu": [
+        "Magyaros töltött karaj 2 db",
+        "Sajttal sonkával töltött jércemell 1 db",
+        "Rántott karaj 5 db",
+        "Rántott csirkemell 5 db",
+        "Cigánypecsenye (tarja) 2 db",
+        "Rántott karfiol 5 db",
+        "Rántott gomba 5 db"
+      ],
+      "itemsEn": [
+        "Hungarian stuffed pork chop ×2",
+        "Turkey breast stuffed with cheese & ham ×1",
+        "Breaded pork chop ×5",
+        "Breaded chicken breast ×5",
+        "Gypsy roast pork ×2",
+        "Breaded cauliflower ×5",
+        "Breaded mushrooms ×5"
+      ]
+    },
+    {
+      "id": "platter-grill",
+      "nameHu": "Grill tál",
+      "nameEn": "Grill Platter",
+      "price": 16900,
+      "itemsHu": [
+        "Grill tarja 5 db",
+        "Grill csirkemell 5 db",
+        "Baconba göngyölt szűz 6 db",
+        "Baconba göngyölt csirkemell 6 db"
+      ],
+      "itemsEn": [
+        "Grilled pork tarja ×5",
+        "Grilled chicken breast ×5",
+        "Bacon-wrapped tenderloin ×6",
+        "Bacon-wrapped chicken breast ×6"
+      ]
+    }
+  ]
+}
